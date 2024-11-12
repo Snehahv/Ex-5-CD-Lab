@@ -17,8 +17,8 @@ To write a YACC program to recognize the grammar anb where n>=10.
 # PROGRAM:
 ### Grammar.l
 ```
-NAME: J.NETHRAA
-REGISTER NO: 212222100031
+NAME: SNEHA HV
+REGISTER NO: 212222040157
 
 %{
 #include "y.tab.h"
